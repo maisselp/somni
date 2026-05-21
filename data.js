@@ -689,6 +689,88 @@ window.translations = {
         "audioUrl": "./audio/urban-7_desc_es.mp3"
       },
       {
+        "id": "urban-8",
+        "title": "Tamarindos",
+        "subtitle": "Intervención en la ciudad",
+        "description": "Preparaos para sentir la vibración de la ciudad bajo las estrellas. En este punto descubriremos la magia nocturna: desde las luces circulares hasta la silueta del Hotel Madeira. Fijaos dónde está tomada cada foto, estás exactamente donde nació cada imagen. Y cuando acabes, continúa el paseo hacia el Espacio de Arte Urbano El Pont; la moda te espera justo encima de tu cabeza. La noche comienza!",
+        "photos": [
+          {
+            "id": "urban-8-photo-1",
+            "url": "./img/urban-8_photo_1.jpg",
+            "orientation": "portrait",
+            "title": "Obra 01",
+            "description": "¿Puedes adivinar en qué lugar de Benidorm está hecha esta foto? Justo enfrente de donde ahora te encuentras pero a unos kilómetros de distancia hacia el centro, justo en el Pontet del Castillo de Benidorm. Allí podrás encontrar más fotos de esta sesión ‘Benidorm Horizontal’ que realizamos en noviembre de 2020. ¿Te animas a visitar el Espai d’Art Urbà el Pontet en otro momento?",
+            "year": "2020",
+            "isMasterpiece": true,
+            "audioUrl": "./audio/urban-8_photo_1_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-2",
+            "url": "./img/urban-8_photo_2.jpg",
+            "orientation": "portrait",
+            "title": "Obra 02",
+            "description": "Cuando la ciudad duerme, Benidorm se transforma en un escenario de luces y misterio. Capturamos esta imagen en marzo de 2021, buscando el alma nocturna y vibrante del horizonte. ¿Te has quedado con ganas de más? Si visitas el Espai d’Art Urbà La Hispanidad, descubrirás a la misma modelo habitando otros rincones emblemáticos del centro. Déjate seducir por la magia de la noche.",
+            "year": "2021",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_2_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-3",
+            "url": "./img/urban-8_photo_3.jpg",
+            "orientation": "portrait",
+            "title": "Obra 03",
+            "description": "Líneas blancas que reescriben el asfalto. Paramos el tiempo en uno de los pasos de peatones más icónicos de Benidorm para capturar la ciudad en la época postpandemia. ¿Quieres viajar a ese instante de 'Benidorm Vertical'? Visita el Espai d’Art Urbà El Pont y descubrirás el resto de la sesión.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_3_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-4",
+            "url": "./img/urban-8_photo_4.jpg",
+            "orientation": "portrait",
+            "title": "Obra 04",
+            "description": "La arquitectura de los hoteles diseña la silueta de Benidorm. El Hotel Milords Suites fue nuestra base de operaciones secreta durante la sesión ‘Benidorm Horizontal’ en noviembre de 2020. ¿Quieres descubrir el resultado de aquel despliegue? Muy cerca de aquí, en el Espai d’Art Urbà El Campo, te espera el resto de la sesión.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_4_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-5",
+            "url": "./img/urban-8_photo_5.jpg",
+            "orientation": "portrait",
+            "title": "Obra 05",
+            "description": "El azul de Benidorm lo inunda todo. Este outfit exclusivo fue creado por nuestra diseñadora para brillar ante el Ayuntamiento durante la sesión ‘Benidorm Horizontal’ en noviembre de 2020. ¿Te apasiona el diseño y la fotografía? Visita el Espai d’Art Urbà El Carrasco y verás cómo cobra vida la colección.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_5_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-6",
+            "url": "./img/urban-8_photo_6.jpg",
+            "orientation": "portrait",
+            "title": "Obra 06",
+            "description": "Curvas de hormigón que desafían el cielo. El rascacielos Negurigane es uno de los edificios más originales e hipnotizantes de Benidorm; pura magia circular. ¿Quieres perderte entre las líneas de esta y otras torres únicas? Visita el Espai d’Art Urbà Els Tolls y descubrirás cómo capturamos el corazón de la ciudad vertical.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_6_es.mp3"
+          },
+          {
+            "id": "urban-8-photo-7",
+            "url": "./img/urban-8_photo_7.jpg",
+            "orientation": "portrait",
+            "title": "Obra 07",
+            "description": "De Benidorm al mundo. Estas imágenes han viajado desde nuestro horizonte hasta revistas de Nueva York, París y Canadá. En la editorial ‘Benidorm Vertical’ de 2019 abrimos las puertas de los rascacielos más altos, por dentro y por fuera. ¿Quieres adentrarte en el lujo vertical? Visita el Espai d’Art Urbà Ponent y disfruta de la experiencia.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_7_es.mp3"
+          }
+        ],
+        "sectionId": "urban",
+        "visible": true,
+        "order": 80,
+        "audioUrl": "./audio/urban-8_desc_es.mp3"
+      },
+      {
         "id": "indoor-1",
         "title": "La Casilla - Sala 1",
         "subtitle": "Exposición Interior",
@@ -1575,6 +1657,88 @@ window.translations = {
         "visible": true,
         "order": 70,
         "audioUrl": "./audio/urban-7_desc_ca.mp3"
+      },
+      {
+        "id": "urban-8",
+        "title": "Tamarindos",
+        "subtitle": "Intervenció a la ciutat",
+        "description": "Prepareu-vos per a sentir la vibració de la ciutat sota els estels. En aquest punt, la màgia nocturna pren el control: des del ball de llums circulars fins a l'elegant silueta de l'Hotel Madeira retallant el cel. Observeu al vostre voltant; sou exactament on va nàixer cada imatge. I en acabar, seguiu el camí cap a l'Espai d'Art Urbà El Pont; alceu la mirada, perquè la moda vos espera suspesa just sobre els vostres caps. La nit tot just comença!",
+        "photos": [
+          {
+            "id": "urban-8-photo-1",
+            "url": "./img/urban-8_photo_1.jpg",
+            "orientation": "portrait",
+            "title": "Obra 01",
+            "description": "Pots endevinar en quin lloc de Benidorm està feta esta foto? Just enfront d’on ara et trobes però a uns quilòmetres de distància cap al centre, just en el Pontet del Castell de Benidorm. Allí podràs trobar més fotos d’esta sessió ‘Benidorm Horitzontal’ que vam realitzar en novembre de 2020. T’animes a visitar l’Espai d’Art Urbà el Pontet en un altre moment?",
+            "year": "2020",
+            "isMasterpiece": true,
+            "audioUrl": "./audio/urban-8_photo_1_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-2",
+            "url": "./img/urban-8_photo_2.jpg",
+            "orientation": "portrait",
+            "title": "Obra 02",
+            "description": "Quan la ciutat dorm, Benidorm es transforma en un escenari de llums i misteri. Vam capturar aquesta imatge en març de 2021, buscant l'ànima nocturna i vibrant de l'horitzó. T'has quedat amb ganes de més? Si visites l’Espai d’Art Urbà La Hispanitat, descobriràs la mateixa model habitant altres racons emblemàtics del centre. Deixa't seduir per la màgia de la nit.",
+            "year": "2021",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_2_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-3",
+            "url": "./img/urban-8_photo_3.jpg",
+            "orientation": "portrait",
+            "title": "Obra 03",
+            "description": "Línies blanques que reescriuen l'asfalt. Parem el temps en un dels passos de zebra més icònics de Benidorm per a capturar la ciutat en l'època postpandèmica. Vols viatjar a eixe instant de 'Benidorm Vertical'? Visita l’Espai d’Art Urbà El Pont i descobriràs la resta de la sessió.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_3_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-4",
+            "url": "./img/urban-8_photo_4.jpg",
+            "orientation": "portrait",
+            "title": "Obra 04",
+            "description": "L'arquitectura dels hotels dissenya la silueta de Benidorm. L’Hotel Milords Suites va ser la nostra base d’operacions secreta durant la sessió ‘Benidorm Horitzontal’ en novembre de 2020. Vols descobrir el resultat d’aquell desplegament? Molt prop d'ací, a l’Espai d’Art Urbà El Campo, t'espera la resta de la sessió.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_4_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-5",
+            "url": "./img/urban-8_photo_5.jpg",
+            "orientation": "portrait",
+            "title": "Obra 05",
+            "description": "El blau de Benidorm ho inunda tot. Aquest outfit exclusiu va ser creat per la nostra dissenyadora per a brillar davant de l’Ajuntament durant la sessió ‘Benidorm Horitzontal’ en novembre de 2020. T'apassiona el disseny i la fotografia? Visita l’Espai d’Art Urbà El Carrasco i voràs com cobra vida la col·lecció.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_5_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-6",
+            "url": "./img/urban-8_photo_6.jpg",
+            "orientation": "portrait",
+            "title": "Obra 06",
+            "description": "Corbes de formigó que desafien el cel. El gratacel Negurigane és un dels edificis més originals i hipnotitzants de Benidorm; pura màgia circular. Vols perdre't entre les línies d'aquesta i altres torres úniques? Visita l’Espai d’Art Urbà Els Tolls i descobriràs com capturem el cor de la ciutat vertical.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_6_ca.mp3"
+          },
+          {
+            "id": "urban-8-photo-7",
+            "url": "./img/urban-8_photo_7.jpg",
+            "orientation": "portrait",
+            "title": "Obra 07",
+            "description": "De Benidorm al món. Aquestes imatges han viatjat des del nostre horitzó fins a revistes de Nova York, París i el Canadà. En l'editorial ‘Benidorm Vertical’ de 2019 vam obrir les portes dels gratacels més alts, per dins i per fora. Vols endinsar-te en el luxe vertical? Visita l’Espai d’Art Urbà Ponent i gaudeix de l'experiència.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_7_ca.mp3"
+          }
+        ],
+        "sectionId": "urban",
+        "visible": true,
+        "order": 80,
+        "audioUrl": "./audio/urban-8_desc_ca.mp3"
       },
       {
         "id": "indoor-1",
@@ -2464,6 +2628,88 @@ window.translations = {
         "visible": true,
         "order": 70,
         "audioUrl": "./audio/urban-7_desc_en.mp3"
+      },
+      {
+        "id": "urban-8",
+        "title": "Tamarindos",
+        "subtitle": "City intervention",
+        "description": "At this point, we discover the magic of the night: from the circular lights to the silhouette of the Madeira Hotel. Notice where each photo was taken, as you are standing very close by. And when you finished, continue your walk towards the Urban Art Space El Pont; fashion awaits you right above your head. The night begins!",
+        "photos": [
+          {
+            "id": "urban-8-photo-1",
+            "url": "./img/urban-8_photo_1.jpg",
+            "orientation": "portrait",
+            "title": "Obra 01",
+            "description": "Can you guess where in Benidorm this photo was taken? Right opposite where you are standing now, but a few kilometres away towards the centre, right at the Pontet of Benidorm Castle. There you can find more photos from this ‘Benidorm Horizontal’ session, which we shot in November 2020. Would you like to visit the Espai d’Art Urbà el Pontet another time?",
+            "year": "2020",
+            "isMasterpiece": true,
+            "audioUrl": "./audio/urban-8_photo_1_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-2",
+            "url": "./img/urban-8_photo_2.jpg",
+            "orientation": "portrait",
+            "title": "Obra 02",
+            "description": "When the city sleeps, Benidorm transforms into a stage of lights and mystery. We captured this image in March 2021, searching for the vibrant, nocturnal soul of the skyline. Eager to see more? If you visit the Espai d’Art Urbà La Hispanitat, you will discover the same model inhabiting other iconic corners of the town centre. Let yourself be seduced by the magic of the night.",
+            "year": "2021",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_2_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-3",
+            "url": "./img/urban-8_photo_3.jpg",
+            "orientation": "portrait",
+            "title": "Obra 03",
+            "description": "White lines rewriting the asphalt. We froze time at one of Benidorm’s most iconic zebra crossings to capture the city in the post-pandemic era. Want to travel back to that 'Benidorm Vertical' moment? Visit Espai d’Art Urbà El Pont and discover the rest of the shoot.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_3_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-4",
+            "url": "./img/urban-8_photo_4.jpg",
+            "orientation": "portrait",
+            "title": "Obra 04",
+            "description": "The architecture of hotels shapes Benidorm’s skyline. The Milords Suites Hotel was our secret base of operations during the ‘Benidorm Horizontal’ shoot in November 2020. Want to see the result of that creative mission? Very close to here, at Espai d’Art Urbà El Campo, the rest of the session awaits you.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_4_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-5",
+            "url": "./img/urban-8_photo_5.jpg",
+            "orientation": "portrait",
+            "title": "Obra 05",
+            "description": "The blue of Benidorm floods everything. This exclusive outfit was created by our designer to shine in front of the Town Hall during the ‘Benidorm Horizontal’ shoot in November 2020. Passionate about design and photography? Visit Espai d’Art Urbà El Carrasco and see how the collection comes to life.",
+            "year": "2020",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_5_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-6",
+            "url": "./img/urban-8_photo_6.jpg",
+            "orientation": "portrait",
+            "title": "Obra 06",
+            "description": "Concrete curves defying the sky. The Negurigane skyscraper is one of Benidorm’s most unique and mesmerizing buildings—pure circular magic. Want to lose yourself in the geometry of this and other iconic towers? Visit Espai d’Art Urbà Els Tolls and see how we capture the heart of the vertical city.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_6_en.mp3"
+          },
+          {
+            "id": "urban-8-photo-7",
+            "url": "./img/urban-8_photo_7.jpg",
+            "orientation": "portrait",
+            "title": "Obra 07",
+            "description": "From Benidorm to the world. These images have traveled from our skyline to fashion magazines in New York, Paris, and Canada. In the 2019 ‘Benidorm Vertical’ editorial, we unlocked the doors of the highest skyscrapers, inside and out. Want to step into this vertical luxury? Visit Espai d’Art Urbà Ponent and enjoy the experience.",
+            "year": "2019",
+            "isMasterpiece": false,
+            "audioUrl": "./audio/urban-8_photo_7_en.mp3"
+          }
+        ],
+        "sectionId": "urban",
+        "visible": true,
+        "order": 80,
+        "audioUrl": "./audio/urban-8_desc_en.mp3"
       },
       {
         "id": "indoor-1",
