@@ -692,7 +692,7 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "Intervención en la ciudad",
-        "description": "Preparaos para sentir la vibración de la ciudad bajo las estrellas. En este punto descubriremos la magia nocturna: desde las luces circulares hasta la silueta del Hotel Madeira. Fijaos dónde está tomada cada foto, estás exactamente donde nació cada imagen. Y cuando acabes, continúa el paseo hacia el Espacio de Arte Urbano El Pont; la moda te espera justo encima de tu cabeza. La noche comienza!",
+        "description": "Bienvenidos al Espai d’Art Urbà Tamarindos, el corazón conceptual de la exposición Somni Vertical. Este espacio funciona como una brújula artística: una ventana que reúne una muestra de cada uno de los demás espacios de arte distribuidos por Benidorm.\r\nCada imagen es un latido inédito de las sesiones de estudio y exteriores que ya habitan la ciudad. Una invitación a descubrir la complicidad del equipo y el diálogo de la fotografía con nuestros rascacielos. ¿Te animas a recorrer el mapa completo a pie de calle?",
         "photos": [
           {
             "id": "urban-8-photo-1",
@@ -1662,7 +1662,7 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "Intervenció a la ciutat",
-        "description": "Prepareu-vos per a sentir la vibració de la ciutat sota els estels. En aquest punt, la màgia nocturna pren el control: des del ball de llums circulars fins a l'elegant silueta de l'Hotel Madeira retallant el cel. Observeu al vostre voltant; sou exactament on va nàixer cada imatge. I en acabar, seguiu el camí cap a l'Espai d'Art Urbà El Pont; alceu la mirada, perquè la moda vos espera suspesa just sobre els vostres caps. La nit tot just comença!",
+        "description": "Benvinguts a l’Espai d’Art Urbà Tamarindos, el cor conceptual de l’exposició Somni Vertical. Aquest espai funciona com una brúixola artística: una finestra que reuneix una mostra de cadascun dels altres espais d’art distribuïts per Benidorm.\r\nCada imatge és un batec inèdit de les sessions d'estudi i exteriors que ja habiten la ciutat. Una invitació a descobrir la complicitat de l'equip i el diàleg de la fotografia amb els nostres gratacels. T’animes a recórrer el mapa complet a peu de carrer?",
         "photos": [
           {
             "id": "urban-8-photo-1",
@@ -2633,7 +2633,7 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "City intervention",
-        "description": "At this point, we discover the magic of the night: from the circular lights to the silhouette of the Madeira Hotel. Notice where each photo was taken, as you are standing very close by. And when you finished, continue your walk towards the Urban Art Space El Pont; fashion awaits you right above your head. The night begins!",
+        "description": "Welcome to Espai d’Art Urbà Tamarindos, the conceptual heart of the Somni Vertical exhibition. This space acts as an artistic compass: a window gathering a selection from each of the city's other art spaces across Benidorm.\r\nEvery image is an exclusive glimpse into the studio and outdoor shoots that already inhabit the town. It is an invitation to discover our team's synergy and the dialogue between photography and our skyscrapers. Are you ready to explore the complete map out on the streets?",
         "photos": [
           {
             "id": "urban-8-photo-1",
