@@ -766,7 +766,7 @@ window.translations = {
           }
         ],
         "sectionId": "urban",
-        "visible": false,
+        "visible": true,
         "order": 80,
         "audioUrl": "./audio/urban-8_desc_es.mp3"
       },
@@ -1736,7 +1736,7 @@ window.translations = {
           }
         ],
         "sectionId": "urban",
-        "visible": false,
+        "visible": true,
         "order": 80,
         "audioUrl": "./audio/urban-8_desc_ca.mp3"
       },
@@ -2707,7 +2707,7 @@ window.translations = {
           }
         ],
         "sectionId": "urban",
-        "visible": false,
+        "visible": true,
         "order": 80,
         "audioUrl": "./audio/urban-8_desc_en.mp3"
       },
