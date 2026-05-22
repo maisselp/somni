@@ -692,14 +692,14 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "Intervención en la ciudad",
-        "description": "Bienvenidos al Espai d’Art Urbà Tamarindos, el corazón conceptual de la exposición Somni Vertical. Este espacio funciona como una brújula artística: una ventana que reúne una muestra de cada uno de los demás espacios de arte distribuidos por Benidorm.\r\nCada imagen es un latido inédito de las sesiones de estudio y exteriores que ya habitan la ciudad. Una invitación a descubrir la complicidad del equipo y el diálogo de la fotografía con nuestros rascacielos. ¿Te animas a recorrer el mapa completo a pie de calle?",
+        "description": "Bienvenidas y bienvenidos al Espacio de Arte Urbano Tamarindos, el corazón conceptual de la exposición Somni Vertical. Este espacio funciona como una brújula artística: una ventana que reúne una muestra de cada uno de los demás espacios de arte distribuidos por Benidorm.\r\nCada imagen es un latido inédito de las sesiones que ya habitan la ciudad. Una invitación a descubrir la complicidad del equipo y el diálogo de la fotografía con nuestros rascacielos. ¿Te animas a recorrer el mapa completo a pie de calle?",
         "photos": [
           {
             "id": "urban-8-photo-1",
             "url": "./img/urban-8_photo_1.jpg",
             "orientation": "portrait",
             "title": "Obra 01",
-            "description": "¿Puedes adivinar en qué lugar de Benidorm está hecha esta foto? Justo enfrente de donde ahora te encuentras pero a unos kilómetros de distancia hacia el centro, justo en el Pontet del Castillo de Benidorm. Allí podrás encontrar más fotos de esta sesión ‘Benidorm Horizontal’ que realizamos en noviembre de 2020. ¿Te animas a visitar el Espai d’Art Urbà el Pontet en otro momento?",
+            "description": "¿Puedes adivinar en qué lugar de Benidorm está hecha esta foto? Justo enfrente de donde ahora te encuentras pero a unos kilómetros de distancia hacia el centro, en el Pontet del Castell de Benidorm. Allí podrás encontrar más fotos de esta sesión ‘Benidorm Horitzontal’ que realizamos en noviembre de 2020. ¿Te animas a visitar el el Espacio de Arte Urbano 'el Pontet' en otro momento?",
             "year": "2020",
             "isMasterpiece": true,
             "audioUrl": "./audio/urban-8_photo_1_es.mp3"
@@ -709,7 +709,7 @@ window.translations = {
             "url": "./img/urban-8_photo_2.jpg",
             "orientation": "portrait",
             "title": "Obra 02",
-            "description": "Cuando la ciudad duerme, Benidorm se transforma en un escenario de luces y misterio. Capturamos esta imagen en marzo de 2021, buscando el alma nocturna y vibrante del horizonte. ¿Te has quedado con ganas de más? Si visitas el Espai d’Art Urbà La Hispanidad, descubrirás a la misma modelo habitando otros rincones emblemáticos del centro. Déjate seducir por la magia de la noche.",
+            "description": "Cuando la ciudad duerme, Benidorm se transforma en un escenario de luces y misterio. Capturamos esta imagen en marzo de 2021, buscando el alma nocturna y vibrante del horizonte. ¿Te has quedado con ganas de más? Si visitas el Espai d’Art Urbà La Hispanitat, descubrirás a la misma modelo habitando otros rincones emblemáticos del centro. Déjate seducir por la magia de la noche.",
             "year": "2021",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_2_es.mp3"
@@ -719,7 +719,7 @@ window.translations = {
             "url": "./img/urban-8_photo_3.jpg",
             "orientation": "portrait",
             "title": "Obra 03",
-            "description": "Líneas blancas que reescriben el asfalto. Paramos el tiempo en uno de los pasos de peatones más icónicos de Benidorm para capturar la ciudad en la época postpandemia. ¿Quieres viajar a ese instante de 'Benidorm Vertical'? Visita el Espai d’Art Urbà El Pont y descubrirás el resto de la sesión.",
+            "description": "Líneas blancas que reescriben el asfalto. Paramos el tiempo en uno de los pasos de cebra más icónicos de Benidorm para capturar la ciudad en la época postpandemia. ¿Quieres viajar a ese instante de 'Benidorm Horitzontal'? Visita el Espai d’Art Urbà El Pont y descubrirás el resto de la sesión.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_3_es.mp3"
@@ -739,7 +739,7 @@ window.translations = {
             "url": "./img/urban-8_photo_5.jpg",
             "orientation": "portrait",
             "title": "Obra 05",
-            "description": "El azul de Benidorm lo inunda todo. Este outfit exclusivo fue creado por nuestra diseñadora para brillar ante el Ayuntamiento durante la sesión ‘Benidorm Horizontal’ en noviembre de 2020. ¿Te apasiona el diseño y la fotografía? Visita el Espai d’Art Urbà El Carrasco y verás cómo cobra vida la colección.",
+            "description": "El azul de Benidorm lo inunda todo. Este outfit exclusivo fue creado por nuestra diseñadora para brillar ante el Ayuntamiento durante la sesión ‘Benidorm Horizontal’ en noviembre de 2020. ¿Te apasiona el diseño y la fotografía? Visita el Espacio de Arte Urbano El Carrasco y verás cómo cobra vida la colección.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_5_es.mp3"
@@ -749,7 +749,7 @@ window.translations = {
             "url": "./img/urban-8_photo_6.jpg",
             "orientation": "portrait",
             "title": "Obra 06",
-            "description": "Curvas de hormigón que desafían el cielo. El rascacielos Negurigane es uno de los edificios más originales e hipnotizantes de Benidorm; pura magia circular. ¿Quieres perderte entre las líneas de esta y otras torres únicas? Visita el Espai d’Art Urbà Els Tolls y descubrirás cómo capturamos el corazón de la ciudad vertical.",
+            "description": "Curvas de hormigón que desafían el cielo. El rascacielos Negurigane es uno de los edificios más originales e hipnotizantes de Benidorm; pura magia circular. ¿Quieres perderte entre las líneas de esta y otras torres únicas? Visita el Espacio de Arte Urbano Els Tolls y descubrirás cómo capturamos el corazón de la ciudad vertical.",
             "year": "2019",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_6_es.mp3"
@@ -759,7 +759,7 @@ window.translations = {
             "url": "./img/urban-8_photo_7.jpg",
             "orientation": "portrait",
             "title": "Obra 07",
-            "description": "De Benidorm al mundo. Estas imágenes han viajado desde nuestro horizonte hasta revistas de Nueva York, París y Canadá. En la editorial ‘Benidorm Vertical’ de 2019 abrimos las puertas de los rascacielos más altos, por dentro y por fuera. ¿Quieres adentrarte en el lujo vertical? Visita el Espai d’Art Urbà Ponent y disfruta de la experiencia.",
+            "description": "De Benidorm al mundo. Estas imágenes han viajado desde nuestro horizonte hasta revistas de Nueva York, París y Canadá. En la editorial ‘Benidorm Vertical’ de 2019 abrimos las puertas de los rascacielos más altos, por dentro y por fuera. ¿Quieres adentrarte en el lujo vertical? Visita el Espacio de Arte Urbano Ponent y disfruta de la experiencia.",
             "year": "2019",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_7_es.mp3"
@@ -1662,7 +1662,7 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "Intervenció a la ciutat",
-        "description": "Benvinguts a l’Espai d’Art Urbà Tamarindos, el cor conceptual de l’exposició Somni Vertical. Aquest espai funciona com una brúixola artística: una finestra que reuneix una mostra de cadascun dels altres espais d’art distribuïts per Benidorm.\r\nCada imatge és un batec inèdit de les sessions d'estudi i exteriors que ja habiten la ciutat. Una invitació a descobrir la complicitat de l'equip i el diàleg de la fotografia amb els nostres gratacels. T’animes a recórrer el mapa complet a peu de carrer?",
+        "description": "Benvingudes i benvinguts a l’Espai d’Art Urbà Tamarindos, el cor conceptual de l’exposició Somni Vertical. Aquest espai funciona com una brúixola artística: una finestra que reuneix una mostra de cadascun dels altres espais d’art distribuïts per Benidorm.\r\nCada imatge és un batec inèdit de les sessions que ja habiten la ciutat. Una invitació a descobrir la complicitat de l'equip i el diàleg de la fotografia amb els nostres gratacels. T’animes a recórrer el mapa complet a peu de carrer?",
         "photos": [
           {
             "id": "urban-8-photo-1",
@@ -1689,7 +1689,7 @@ window.translations = {
             "url": "./img/urban-8_photo_3.jpg",
             "orientation": "portrait",
             "title": "Obra 03",
-            "description": "Línies blanques que reescriuen l'asfalt. Parem el temps en un dels passos de zebra més icònics de Benidorm per a capturar la ciutat en l'època postpandèmica. Vols viatjar a eixe instant de 'Benidorm Vertical'? Visita l’Espai d’Art Urbà El Pont i descobriràs la resta de la sessió.",
+            "description": "Línies blanques que reescriuen l'asfalt. Parem el temps en un dels passos de zebra més icònics de Benidorm per a capturar la ciutat en l'època postpandèmica. Vols viatjar a eixe instant de 'Benidorm Horitzontal'? Visita l’Espai d’Art Urbà El Pont i descobriràs la resta de la sessió.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_3_ca.mp3"
@@ -2633,7 +2633,7 @@ window.translations = {
         "id": "urban-8",
         "title": "Tamarindos",
         "subtitle": "City intervention",
-        "description": "Welcome to Espai d’Art Urbà Tamarindos, the conceptual heart of the Somni Vertical exhibition. This space acts as an artistic compass: a window gathering a selection from each of the city's other art spaces across Benidorm.\r\nEvery image is an exclusive glimpse into the studio and outdoor shoots that already inhabit the town. It is an invitation to discover our team's synergy and the dialogue between photography and our skyscrapers. Are you ready to explore the complete map out on the streets?",
+        "description": "Welcome to the Urban Art Space Tamarindos, the conceptual heart of the Somni Vertical exhibition. This space acts as an artistic compass: a window gathering a selection from each of the city's other art spaces across Benidorm.\r\nEvery image is an exclusive glimpse into the shoots that already inhabit the town. It is an invitation to discover our team's synergy and the dialogue between photography and our skyscrapers. Are you ready to explore the complete map out on the streets?",
         "photos": [
           {
             "id": "urban-8-photo-1",
@@ -2660,7 +2660,7 @@ window.translations = {
             "url": "./img/urban-8_photo_3.jpg",
             "orientation": "portrait",
             "title": "Obra 03",
-            "description": "White lines rewriting the asphalt. We froze time at one of Benidorm’s most iconic zebra crossings to capture the city in the post-pandemic era. Want to travel back to that 'Benidorm Vertical' moment? Visit Espai d’Art Urbà El Pont and discover the rest of the shoot.",
+            "description": "White lines rewriting the asphalt. We froze time at one of Benidorm’s most iconic zebra crossings to capture the city in the post-pandemic era. Want to travel back to that 'Benidorm Horitzontal' moment? Visit Espai d’Art Urbà El Pont and discover the rest of the shoot.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_3_en.mp3"
@@ -2680,7 +2680,7 @@ window.translations = {
             "url": "./img/urban-8_photo_5.jpg",
             "orientation": "portrait",
             "title": "Obra 05",
-            "description": "The blue of Benidorm floods everything. This exclusive outfit was created by our designer to shine in front of the Town Hall during the ‘Benidorm Horizontal’ shoot in November 2020. Passionate about design and photography? Visit Espai d’Art Urbà El Carrasco and see how the collection comes to life.",
+            "description": "The blue of Benidorm floods everything. This exclusive outfit was created by our designer to shine in front of the Town Hall during the ‘Benidorm Horizontal’ shoot in November 2020. Passionate about design and photography? Visit the Urban Art Space El Carrasco and see how the collection comes to life.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_5_en.mp3"
@@ -2690,7 +2690,7 @@ window.translations = {
             "url": "./img/urban-8_photo_6.jpg",
             "orientation": "portrait",
             "title": "Obra 06",
-            "description": "Concrete curves defying the sky. The Negurigane skyscraper is one of Benidorm’s most unique and mesmerizing buildings—pure circular magic. Want to lose yourself in the geometry of this and other iconic towers? Visit Espai d’Art Urbà Els Tolls and see how we capture the heart of the vertical city.",
+            "description": "Concrete curves defying the sky. The Negurigane skyscraper is one of Benidorm’s most unique and mesmerizing buildings—pure circular magic. Want to lose yourself in the geometry of this and other iconic towers? Visit the Urban Art Space Els Tolls and see how we capture the heart of the vertical city.",
             "year": "2019",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_6_en.mp3"
@@ -2700,7 +2700,7 @@ window.translations = {
             "url": "./img/urban-8_photo_7.jpg",
             "orientation": "portrait",
             "title": "Obra 07",
-            "description": "From Benidorm to the world. These images have traveled from our skyline to fashion magazines in New York, Paris, and Canada. In the 2019 ‘Benidorm Vertical’ editorial, we unlocked the doors of the highest skyscrapers, inside and out. Want to step into this vertical luxury? Visit Espai d’Art Urbà Ponent and enjoy the experience.",
+            "description": "From Benidorm to the world. These images have traveled from our skyline to fashion magazines in New York, Paris, and Canada. In the 2019 ‘Benidorm Vertical’ editorial, we unlocked the doors of the highest skyscrapers, inside and out. Want to step into this vertical luxury? Visit the Urban Art Space Ponent and enjoy the experience.",
             "year": "2019",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-8_photo_7_en.mp3"
