@@ -273,7 +273,7 @@ window.translations = {
             "url": "./img/urban-5_photo_2.jpg",
             "orientation": "portrait",
             "title": "Obra 02",
-            "description": "Bienvenidos a la editorial 'Benidorm Horizontal'. Fijaos en el contraste: el azul eléctrico del outfit y los globos contrastan con la geometría de los edificios del fondo. Es la moda conquistando el espacio público.",
+            "description": "Bienvenidos a la editorial 'Benidorm Horizontal'. Fijaos en el contraste: el azul eléctrico del outfit contrasta con la geometría de los edificios del fondo y el cielo. Es la moda conquistando el espacio público.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-5_photo_2_es.mp3"
@@ -1243,7 +1243,7 @@ window.translations = {
             "url": "./img/urban-5_photo_2.jpg",
             "orientation": "portrait",
             "title": "Obra 02",
-            "description": "Benvinguts a l'editorial 'Benidorm Horitzontal'. Fixeu-vos en el contrast: el blau elèctric de l'outfit i els globus contrasten amb la geometria dels edificis del fons. És la moda conquistant l'espai públic.",
+            "description": "Benvinguts a l'editorial 'Benidorm Horitzontal'. Fixeu-vos en el contrast: el blau elèctric de l'outfit contrasta amb la geometria dels edificis del fons i el cel. És la moda conquistant l'espai públic.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-5_photo_2_ca.mp3"
@@ -2214,7 +2214,7 @@ window.translations = {
             "url": "./img/urban-5_photo_2.jpg",
             "orientation": "portrait",
             "title": "Obra 02",
-            "description": "Welcome to the 'Benidorm Horizontal' editorial. Notice the contrast: the electric blue outfit and the balloons break with the geometry of the background buildings. This is fashion conquering public space.",
+            "description": "Welcome to the 'Benidorm Horizontal' editorial. Notice the contrast: the electric blue outfit breaks with the geometry of the background buildings and the sky. This is fashion conquering public space.",
             "year": "2020",
             "isMasterpiece": false,
             "audioUrl": "./audio/urban-5_photo_2_en.mp3"
