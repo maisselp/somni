@@ -1669,7 +1669,7 @@ window.translations = {
             "url": "./img/urban-8_photo_1.jpg",
             "orientation": "portrait",
             "title": "Obra 01",
-            "description": "Pots endevinar en quin lloc de Benidorm està feta esta foto? Just enfront d’on ara et trobes però a uns quilòmetres de distància cap al centre, just en el Pontet del Castell de Benidorm. Allí podràs trobar més fotos d’esta sessió ‘Benidorm Horitzontal’ que vam realitzar en novembre de 2020. T’animes a visitar l’Espai d’Art Urbà el Pontet en un altre moment?",
+            "description": "Pots endevinar en quin lloc de Benidorm està feta esta foto? Just enfront d’on ara et trobes però a uns quilòmetres de distància cap al centre, just al Pontet del Castell de Benidorm. Allí podràs trobar més fotos d’esta sessió ‘Benidorm Horitzontal’ que vam realitzar en novembre de 2020. T’animes a visitar l’Espai d’Art Urbà el Pontet en un altre moment?",
             "year": "2020",
             "isMasterpiece": true,
             "audioUrl": "./audio/urban-8_photo_1_ca.mp3"
