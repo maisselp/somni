@@ -886,7 +886,8 @@ window.translations = {
       "form_privacy_accept": "He leído y acepto la Política de Privacidad",
       "form_privacy_link": "Política de Privacidad",
       "privacy_modal_close": "Cerrar",
-      "privacy_modal_title": "Política de Privacidad y Cookies"
+      "privacy_modal_title": "Política de Privacidad y Cookies",
+      "form_subject_visit": "Visita a la exposición"
     },
     "footer": {
       "copy": "© 2026 Maisse - Somni Vertical",
@@ -1857,7 +1858,8 @@ window.translations = {
       "form_privacy_accept": "He llegit i accepte la Política de Privadesa",
       "form_privacy_link": "Política de Privadesa",
       "privacy_modal_close": "Tancar",
-      "privacy_modal_title": "Política de Privadesa i Cookies"
+      "privacy_modal_title": "Política de Privadesa i Cookies",
+      "form_subject_visit": "Visita a l'exposició"
     },
     "footer": {
       "copy": "© 2026 Maisse - Somni Vertical",
@@ -2828,7 +2830,8 @@ window.translations = {
       "form_privacy_accept": "I have read and accept the Privacy Policy",
       "form_privacy_link": "Privacy Policy",
       "privacy_modal_close": "Close",
-      "privacy_modal_title": "Privacy Policy and Cookies"
+      "privacy_modal_title": "Privacy Policy and Cookies",
+      "form_subject_visit": "Exhibition visit"
     },
     "footer": {
       "copy": "© 2026 Maisse - Somni Vertical",

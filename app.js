@@ -426,6 +426,7 @@ function renderApp() {
                                 class="bg-zinc-900 border border-white/10 text-white px-5 py-4 font-sans ${getDynamicText('body')} focus:outline-none focus:border-accent transition-colors rounded-sm appearance-none cursor-pointer"
                             >
                                 <option value="" disabled selected class="text-white/30">${t.contact.form_subject}</option>
+                                ${t.contact.form_subject_visit ? `<option value="${t.contact.form_subject_visit}">${t.contact.form_subject_visit}</option>` : ''}
                                 <option value="${t.contact.form_subject_photo}">${t.contact.form_subject_photo}</option>
                                 <option value="${t.contact.form_subject_collab}">${t.contact.form_subject_collab}</option>
                                 <option value="${t.contact.form_subject_web}">${t.contact.form_subject_web}</option>
